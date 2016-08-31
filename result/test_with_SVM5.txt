@@ -1,0 +1,1233 @@
+
+
+
+max_df: 1000
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4469)
+ the shape of test is (3558, 4469)
+predict info:
+precision:0.857
+recall:0.857
+f1-score:0.856
+
+
+max_df: 1000
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3466)
+ the shape of test is (3558, 3466)
+predict info:
+precision:0.852
+recall:0.852
+f1-score:0.851
+
+
+max_df: 1000
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 2773)
+ the shape of test is (3558, 2773)
+predict info:
+precision:0.846
+recall:0.846
+f1-score:0.846
+
+
+max_df: 1000
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2289)
+ the shape of test is (3558, 2289)
+predict info:
+precision:0.841
+recall:0.839
+f1-score:0.839
+
+
+max_df: 1000
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 1915)
+ the shape of test is (3558, 1915)
+predict info:
+precision:0.837
+recall:0.834
+f1-score:0.835
+
+
+max_df: 1000
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 1657)
+ the shape of test is (3558, 1657)
+predict info:
+precision:0.831
+recall:0.830
+f1-score:0.829
+
+
+max_df: 1000
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1458)
+ the shape of test is (3558, 1458)
+predict info:
+precision:0.828
+recall:0.827
+f1-score:0.827
+
+
+max_df: 1200
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4585)
+ the shape of test is (3558, 4585)
+predict info:
+precision:0.859
+recall:0.858
+f1-score:0.858
+
+
+max_df: 1200
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3582)
+ the shape of test is (3558, 3582)
+predict info:
+precision:0.850
+recall:0.850
+f1-score:0.849
+
+
+max_df: 1200
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 2889)
+ the shape of test is (3558, 2889)
+predict info:
+precision:0.851
+recall:0.850
+f1-score:0.850
+
+
+max_df: 1200
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2405)
+ the shape of test is (3558, 2405)
+predict info:
+precision:0.843
+recall:0.841
+f1-score:0.841
+
+
+max_df: 1200
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2031)
+ the shape of test is (3558, 2031)
+predict info:
+precision:0.840
+recall:0.838
+f1-score:0.838
+
+
+max_df: 1200
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 1773)
+ the shape of test is (3558, 1773)
+predict info:
+precision:0.831
+recall:0.829
+f1-score:0.829
+
+
+max_df: 1200
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1574)
+ the shape of test is (3558, 1574)
+predict info:
+precision:0.830
+recall:0.828
+f1-score:0.828
+
+
+max_df: 1400
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4668)
+ the shape of test is (3558, 4668)
+predict info:
+precision:0.865
+recall:0.866
+f1-score:0.865
+
+
+max_df: 1400
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3665)
+ the shape of test is (3558, 3665)
+predict info:
+precision:0.863
+recall:0.863
+f1-score:0.862
+
+
+max_df: 1400
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 2972)
+ the shape of test is (3558, 2972)
+predict info:
+precision:0.857
+recall:0.856
+f1-score:0.856
+
+
+max_df: 1400
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2488)
+ the shape of test is (3558, 2488)
+predict info:
+precision:0.854
+recall:0.854
+f1-score:0.854
+
+
+max_df: 1400
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2114)
+ the shape of test is (3558, 2114)
+predict info:
+precision:0.855
+recall:0.853
+f1-score:0.853
+
+
+max_df: 1400
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 1856)
+ the shape of test is (3558, 1856)
+predict info:
+precision:0.851
+recall:0.851
+f1-score:0.850
+
+
+max_df: 1400
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1657)
+ the shape of test is (3558, 1657)
+predict info:
+precision:0.852
+recall:0.850
+f1-score:0.850
+
+
+max_df: 1600
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4730)
+ the shape of test is (3558, 4730)
+predict info:
+precision:0.872
+recall:0.871
+f1-score:0.871
+
+
+max_df: 1600
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3727)
+ the shape of test is (3558, 3727)
+predict info:
+precision:0.874
+recall:0.874
+f1-score:0.874
+
+
+max_df: 1600
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3034)
+ the shape of test is (3558, 3034)
+predict info:
+precision:0.871
+recall:0.871
+f1-score:0.871
+
+
+max_df: 1600
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2550)
+ the shape of test is (3558, 2550)
+predict info:
+precision:0.867
+recall:0.866
+f1-score:0.866
+
+
+max_df: 1600
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2176)
+ the shape of test is (3558, 2176)
+predict info:
+precision:0.866
+recall:0.865
+f1-score:0.864
+
+
+max_df: 1600
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 1918)
+ the shape of test is (3558, 1918)
+predict info:
+precision:0.864
+recall:0.864
+f1-score:0.864
+
+
+max_df: 1600
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1719)
+ the shape of test is (3558, 1719)
+predict info:
+precision:0.862
+recall:0.861
+f1-score:0.861
+
+
+max_df: 1800
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4771)
+ the shape of test is (3558, 4771)
+predict info:
+precision:0.878
+recall:0.878
+f1-score:0.878
+
+
+max_df: 1800
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3768)
+ the shape of test is (3558, 3768)
+predict info:
+precision:0.878
+recall:0.878
+f1-score:0.877
+
+
+max_df: 1800
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3075)
+ the shape of test is (3558, 3075)
+predict info:
+precision:0.872
+recall:0.871
+f1-score:0.871
+
+
+max_df: 1800
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2591)
+ the shape of test is (3558, 2591)
+predict info:
+precision:0.870
+recall:0.869
+f1-score:0.869
+
+
+max_df: 1800
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2217)
+ the shape of test is (3558, 2217)
+predict info:
+precision:0.866
+recall:0.865
+f1-score:0.865
+
+
+max_df: 1800
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 1959)
+ the shape of test is (3558, 1959)
+predict info:
+precision:0.863
+recall:0.864
+f1-score:0.864
+
+
+max_df: 1800
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1760)
+ the shape of test is (3558, 1760)
+predict info:
+precision:0.862
+recall:0.862
+f1-score:0.862
+
+
+max_df: 2000
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4802)
+ the shape of test is (3558, 4802)
+predict info:
+precision:0.876
+recall:0.876
+f1-score:0.876
+
+
+max_df: 2000
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3799)
+ the shape of test is (3558, 3799)
+predict info:
+precision:0.875
+recall:0.875
+f1-score:0.875
+
+
+max_df: 2000
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3106)
+ the shape of test is (3558, 3106)
+predict info:
+precision:0.871
+recall:0.870
+f1-score:0.870
+
+
+max_df: 2000
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2622)
+ the shape of test is (3558, 2622)
+predict info:
+precision:0.864
+recall:0.864
+f1-score:0.863
+
+
+max_df: 2000
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2248)
+ the shape of test is (3558, 2248)
+predict info:
+precision:0.864
+recall:0.863
+f1-score:0.863
+
+
+max_df: 2000
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 1990)
+ the shape of test is (3558, 1990)
+predict info:
+precision:0.864
+recall:0.864
+f1-score:0.863
+
+
+max_df: 2000
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1791)
+ the shape of test is (3558, 1791)
+predict info:
+precision:0.863
+recall:0.863
+f1-score:0.863
+
+
+max_df: 2200
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4832)
+ the shape of test is (3558, 4832)
+predict info:
+precision:0.876
+recall:0.875
+f1-score:0.875
+
+
+max_df: 2200
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3829)
+ the shape of test is (3558, 3829)
+predict info:
+precision:0.875
+recall:0.874
+f1-score:0.873
+
+
+max_df: 2200
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3136)
+ the shape of test is (3558, 3136)
+predict info:
+precision:0.874
+recall:0.873
+f1-score:0.873
+
+
+max_df: 2200
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2652)
+ the shape of test is (3558, 2652)
+predict info:
+precision:0.870
+recall:0.869
+f1-score:0.869
+
+
+max_df: 2200
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2278)
+ the shape of test is (3558, 2278)
+predict info:
+precision:0.866
+recall:0.866
+f1-score:0.865
+
+
+max_df: 2200
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2020)
+ the shape of test is (3558, 2020)
+predict info:
+precision:0.865
+recall:0.865
+f1-score:0.864
+
+
+max_df: 2200
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1821)
+ the shape of test is (3558, 1821)
+predict info:
+precision:0.862
+recall:0.862
+f1-score:0.862
+
+
+max_df: 2400
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4845)
+ the shape of test is (3558, 4845)
+predict info:
+precision:0.873
+recall:0.873
+f1-score:0.873
+
+
+max_df: 2400
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3842)
+ the shape of test is (3558, 3842)
+predict info:
+precision:0.874
+recall:0.875
+f1-score:0.874
+
+
+max_df: 2400
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3149)
+ the shape of test is (3558, 3149)
+predict info:
+precision:0.869
+recall:0.869
+f1-score:0.869
+
+
+max_df: 2400
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2665)
+ the shape of test is (3558, 2665)
+predict info:
+precision:0.870
+recall:0.869
+f1-score:0.869
+
+
+max_df: 2400
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2291)
+ the shape of test is (3558, 2291)
+predict info:
+precision:0.866
+recall:0.864
+f1-score:0.864
+
+
+max_df: 2400
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2033)
+ the shape of test is (3558, 2033)
+predict info:
+precision:0.865
+recall:0.865
+f1-score:0.865
+
+
+max_df: 2400
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1834)
+ the shape of test is (3558, 1834)
+predict info:
+precision:0.864
+recall:0.864
+f1-score:0.864
+
+
+max_df: 2600
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4862)
+ the shape of test is (3558, 4862)
+predict info:
+precision:0.878
+recall:0.877
+f1-score:0.877
+
+
+max_df: 2600
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3859)
+ the shape of test is (3558, 3859)
+predict info:
+precision:0.874
+recall:0.874
+f1-score:0.874
+
+
+max_df: 2600
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3166)
+ the shape of test is (3558, 3166)
+predict info:
+precision:0.872
+recall:0.872
+f1-score:0.871
+
+
+max_df: 2600
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2682)
+ the shape of test is (3558, 2682)
+predict info:
+precision:0.868
+recall:0.868
+f1-score:0.867
+
+
+max_df: 2600
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2308)
+ the shape of test is (3558, 2308)
+predict info:
+precision:0.865
+recall:0.864
+f1-score:0.864
+
+
+max_df: 2600
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2050)
+ the shape of test is (3558, 2050)
+predict info:
+precision:0.867
+recall:0.868
+f1-score:0.867
+
+
+max_df: 2600
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1851)
+ the shape of test is (3558, 1851)
+predict info:
+precision:0.864
+recall:0.863
+f1-score:0.863
+
+
+max_df: 2800
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4874)
+ the shape of test is (3558, 4874)
+predict info:
+precision:0.877
+recall:0.877
+f1-score:0.877
+
+
+max_df: 2800
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3871)
+ the shape of test is (3558, 3871)
+predict info:
+precision:0.875
+recall:0.875
+f1-score:0.874
+
+
+max_df: 2800
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3178)
+ the shape of test is (3558, 3178)
+predict info:
+precision:0.872
+recall:0.871
+f1-score:0.871
+
+
+max_df: 2800
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2694)
+ the shape of test is (3558, 2694)
+predict info:
+precision:0.871
+recall:0.871
+f1-score:0.870
+
+
+max_df: 2800
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2320)
+ the shape of test is (3558, 2320)
+predict info:
+precision:0.869
+recall:0.868
+f1-score:0.868
+
+
+max_df: 2800
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2062)
+ the shape of test is (3558, 2062)
+predict info:
+precision:0.865
+recall:0.866
+f1-score:0.865
+
+
+max_df: 2800
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1863)
+ the shape of test is (3558, 1863)
+predict info:
+precision:0.861
+recall:0.861
+f1-score:0.860
+
+
+max_df: 3000
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4887)
+ the shape of test is (3558, 4887)
+predict info:
+precision:0.874
+recall:0.874
+f1-score:0.874
+
+
+max_df: 3000
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3884)
+ the shape of test is (3558, 3884)
+predict info:
+precision:0.875
+recall:0.875
+f1-score:0.875
+
+
+max_df: 3000
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3191)
+ the shape of test is (3558, 3191)
+predict info:
+precision:0.869
+recall:0.868
+f1-score:0.868
+
+
+max_df: 3000
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2707)
+ the shape of test is (3558, 2707)
+predict info:
+precision:0.870
+recall:0.870
+f1-score:0.869
+
+
+max_df: 3000
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2333)
+ the shape of test is (3558, 2333)
+predict info:
+precision:0.866
+recall:0.865
+f1-score:0.865
+
+
+max_df: 3000
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2075)
+ the shape of test is (3558, 2075)
+predict info:
+precision:0.862
+recall:0.863
+f1-score:0.862
+
+
+max_df: 3000
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1876)
+ the shape of test is (3558, 1876)
+predict info:
+precision:0.861
+recall:0.861
+f1-score:0.861
+
+
+max_df: 3200
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4894)
+ the shape of test is (3558, 4894)
+predict info:
+precision:0.879
+recall:0.878
+f1-score:0.878
+
+
+max_df: 3200
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3891)
+ the shape of test is (3558, 3891)
+predict info:
+precision:0.875
+recall:0.875
+f1-score:0.874
+
+
+max_df: 3200
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3198)
+ the shape of test is (3558, 3198)
+predict info:
+precision:0.870
+recall:0.870
+f1-score:0.869
+
+
+max_df: 3200
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2714)
+ the shape of test is (3558, 2714)
+predict info:
+precision:0.871
+recall:0.870
+f1-score:0.869
+
+
+max_df: 3200
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2340)
+ the shape of test is (3558, 2340)
+predict info:
+precision:0.867
+recall:0.867
+f1-score:0.867
+
+
+max_df: 3200
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2082)
+ the shape of test is (3558, 2082)
+predict info:
+precision:0.862
+recall:0.861
+f1-score:0.861
+
+
+max_df: 3200
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1883)
+ the shape of test is (3558, 1883)
+predict info:
+precision:0.864
+recall:0.863
+f1-score:0.863
+
+
+max_df: 3400
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4897)
+ the shape of test is (3558, 4897)
+predict info:
+precision:0.875
+recall:0.875
+f1-score:0.875
+
+
+max_df: 3400
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3894)
+ the shape of test is (3558, 3894)
+predict info:
+precision:0.875
+recall:0.875
+f1-score:0.874
+
+
+max_df: 3400
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3201)
+ the shape of test is (3558, 3201)
+predict info:
+precision:0.869
+recall:0.868
+f1-score:0.868
+
+
+max_df: 3400
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2717)
+ the shape of test is (3558, 2717)
+predict info:
+precision:0.873
+recall:0.873
+f1-score:0.873
+
+
+max_df: 3400
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2343)
+ the shape of test is (3558, 2343)
+predict info:
+precision:0.867
+recall:0.866
+f1-score:0.865
+
+
+max_df: 3400
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2085)
+ the shape of test is (3558, 2085)
+predict info:
+precision:0.865
+recall:0.864
+f1-score:0.864
+
+
+max_df: 3400
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1886)
+ the shape of test is (3558, 1886)
+predict info:
+precision:0.862
+recall:0.861
+f1-score:0.861
+
+
+max_df: 3600
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4907)
+ the shape of test is (3558, 4907)
+predict info:
+precision:0.880
+recall:0.880
+f1-score:0.880
+
+
+max_df: 3600
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3904)
+ the shape of test is (3558, 3904)
+predict info:
+precision:0.873
+recall:0.873
+f1-score:0.872
+
+
+max_df: 3600
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3211)
+ the shape of test is (3558, 3211)
+predict info:
+precision:0.870
+recall:0.870
+f1-score:0.870
+
+
+max_df: 3600
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2727)
+ the shape of test is (3558, 2727)
+predict info:
+precision:0.869
+recall:0.868
+f1-score:0.867
+
+
+max_df: 3600
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2353)
+ the shape of test is (3558, 2353)
+predict info:
+precision:0.864
+recall:0.864
+f1-score:0.864
+
+
+max_df: 3600
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2095)
+ the shape of test is (3558, 2095)
+predict info:
+precision:0.863
+recall:0.863
+f1-score:0.863
+
+
+max_df: 3600
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1896)
+ the shape of test is (3558, 1896)
+predict info:
+precision:0.864
+recall:0.863
+f1-score:0.863
+
+
+max_df: 3800
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4911)
+ the shape of test is (3558, 4911)
+predict info:
+precision:0.877
+recall:0.876
+f1-score:0.876
+
+
+max_df: 3800
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3908)
+ the shape of test is (3558, 3908)
+predict info:
+precision:0.875
+recall:0.874
+f1-score:0.874
+
+
+max_df: 3800
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3215)
+ the shape of test is (3558, 3215)
+predict info:
+precision:0.873
+recall:0.871
+f1-score:0.871
+
+
+max_df: 3800
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2731)
+ the shape of test is (3558, 2731)
+predict info:
+precision:0.871
+recall:0.870
+f1-score:0.870
+
+
+max_df: 3800
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2357)
+ the shape of test is (3558, 2357)
+predict info:
+precision:0.864
+recall:0.863
+f1-score:0.863
+
+
+max_df: 3800
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2099)
+ the shape of test is (3558, 2099)
+predict info:
+precision:0.866
+recall:0.865
+f1-score:0.865
+
+
+max_df: 3800
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1900)
+ the shape of test is (3558, 1900)
+predict info:
+precision:0.862
+recall:0.860
+f1-score:0.860
+
+
+max_df: 4000
+min_df: 100
+KNN: 5
+ the shape of train is (14120, 4917)
+ the shape of test is (3558, 4917)
+predict info:
+precision:0.879
+recall:0.878
+f1-score:0.878
+
+
+max_df: 4000
+min_df: 130
+KNN: 5
+ the shape of train is (14120, 3914)
+ the shape of test is (3558, 3914)
+predict info:
+precision:0.879
+recall:0.879
+f1-score:0.879
+
+
+max_df: 4000
+min_df: 160
+KNN: 5
+ the shape of train is (14120, 3221)
+ the shape of test is (3558, 3221)
+predict info:
+precision:0.871
+recall:0.870
+f1-score:0.870
+
+
+max_df: 4000
+min_df: 190
+KNN: 5
+ the shape of train is (14120, 2737)
+ the shape of test is (3558, 2737)
+predict info:
+precision:0.872
+recall:0.871
+f1-score:0.871
+
+
+max_df: 4000
+min_df: 220
+KNN: 5
+ the shape of train is (14120, 2363)
+ the shape of test is (3558, 2363)
+predict info:
+precision:0.868
+recall:0.866
+f1-score:0.867
+
+
+max_df: 4000
+min_df: 250
+KNN: 5
+ the shape of train is (14120, 2105)
+ the shape of test is (3558, 2105)
+predict info:
+precision:0.868
+recall:0.866
+f1-score:0.866
+
+
+max_df: 4000
+min_df: 280
+KNN: 5
+ the shape of train is (14120, 1906)
+ the shape of test is (3558, 1906)
+predict info:
+precision:0.867
+recall:0.866
+f1-score:0.866
